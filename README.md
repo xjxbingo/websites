@@ -13,3 +13,5 @@ https://reactjs.org/docs/installation.html#creating-a-new-application
 weex网易严选
 https://segmentfault.com/a/1190000011027225
 
+weex文档
+http://weex-project.io/cn/guide/
